@@ -51,7 +51,7 @@ controller.
 
 ### Visual Stduio Code
 - Arduino IDE -> Preference -> 'Use external editor
-![](./images/screenshot.JPG)
+![](./images/screenshot1.png)
 
 ### Import library
 Tools -> Manage Library
