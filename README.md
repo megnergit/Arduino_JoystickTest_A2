@@ -45,11 +45,13 @@ controller.
 ------------------------------------------
 ## Trial 1.
 ### Goal
-- Write a code with library.
+- Connect all components
 - Upload the code to Arduino
 - Run the code
-  + Initialize LCD
-  + Show 'Periodic Table' on the LCD
+
+### Visual Stduio Code
+- Arduino IDE -> Preference -> 'Use external editor
+![](./images/screenshot.JPG)
 
 ### Import library
 Tools -> Manage Library
@@ -62,14 +64,15 @@ Tools -> Manage Library
 1. Use Arduino IDE. 
 2. Select right arrow "->". 
 
-### Select Device
+### Select Device (to upload the code)
 - Tools -> Ports -> (Select that looks likely)
 
 ------------------------------------------
 ## Trial 2.
 ### Goal
-- Use keypad to move the window
-  (=move the text)
+- Test laser by itself. 
+  + how to turn on 
+  + updatd code
 
 ------------------------------------------
 ### Code (copied from the reference below)
